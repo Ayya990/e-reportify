@@ -1,5 +1,6 @@
 
 import 'package:flutter_application_1/theme/config.dart' as config;
+import 'package:flutter_application_1/ui/widgets/sectionHeader.dart';
 import 'packageflutter_application_1/ui/widgets/sectionHeader.dart';
 import 'package:flutter_application_1/ui/widgets/topBar.dart';
 import 'package:flutter_application_1/ui/widgets/videoCard.dart';
